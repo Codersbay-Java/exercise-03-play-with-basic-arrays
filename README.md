@@ -1,22 +1,5 @@
-# Exercise 00 Template 
-### Deadline 01.01.2022
+# Exercise 03 Array algorithms 
+### Deadline 28.03.2022 07:00
 
-Program some cool stuff
-
-## Task 1
-Some task
-
-## Task 2
-More work todo 😥
-
-<br>
-
-> This might be helpful
-
-~~~java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-~~~
+All the tasks are commented in JavaDoc in the code.
+Stick to a clean style. This assignment can be done in groups.
