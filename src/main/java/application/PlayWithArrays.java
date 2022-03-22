@@ -188,7 +188,7 @@ public class PlayWithArrays {
 	 * @return true if any value appears at least twice in the array, and return
 	 *         false if every element is distinct
 	 */
-	public boolean containsDuplicate(int[] nums) {
+	public static boolean containsDuplicate(int[] nums) {
 		return false;
 	}
 
@@ -210,7 +210,7 @@ public class PlayWithArrays {
 	 * @param nums
 	 * @return all prime numbers filtered from the input
 	 */
-	public int[] getPrimeNumbers(int[] nums) {
+	public static int[] getPrimeNumbers(int[] nums) {
 		return null;
 	}
 
